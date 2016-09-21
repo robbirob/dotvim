@@ -7,4 +7,8 @@ Plugins are intalled as Git-Submodules.
 ```bash
 git clone https://github.com/robbirob/dotvim ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
+
+cd ~/.vim
+git submodule init
+git submodule update
 ```
