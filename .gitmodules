@@ -7,6 +7,6 @@
 [submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = https://github.com/Raimondi/delimitMate
-[submodule "vim-fireplace"]
-	path = vim-fireplace
+[submodule "bundle/vim-fireplace"]
+	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace
