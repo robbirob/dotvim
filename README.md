@@ -1,6 +1,6 @@
 ##My Vim-Dotfiles
 
-Plugins are intalled as Git-Submodules.
+Plugins are installed as Git-Submodules.
 
 ###Installation
 
