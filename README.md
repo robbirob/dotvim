@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/robbirob/dotvim.png?label=ready&title=Ready)](https://waffle.io/robbirob/dotvim)
 ##My Vim-Dotfiles
 
 Plugins are installed as Git-Submodules.
